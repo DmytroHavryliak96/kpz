@@ -1,0 +1,1 @@
+[{"DefaultPermissions":0,"FirstName":"dmytro","LastName":"havryliak","Login":"dima","Password":"e2fc714c4727ee9395f324cd2e7f331f","Phone":"+380684265614","SpecialNumber":"f033ab37c30201f73f142449d037028d"}]
